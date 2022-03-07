@@ -14,20 +14,33 @@
 
 - Posting is called `commit`  
   
+# To Do In Sprint
+
+- [incomplete] Draw a mockup of what the site will look like 
+- [Done] Draw a simple flow diagram
+- [incomplete] List basic API functions 
+- [incomplete] List out all individual flows (i.e. user log in flow, update flow..)
 
 
 # Prototype One
 
 - Build out wireframe functionality and UI
 
+![](resources/simpleFlow.png)
+
+
+
+
+
 
 ## Low Level Features
+
 
 - Landing page unsigned
 - Display mixture of most popular and mid popular and a few non popular commits
 - 
 
-## To Do
+## To Do BackLog
 
 - Learn Caching and how to manage logins
 - Learn session management 
