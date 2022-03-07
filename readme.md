@@ -9,6 +9,8 @@
 3. Main feed page is feeds from everyone who shares public. 
 4. Users can add a friend or just follow
 
+![](resources/demo1.png)
+![](resources/demo2.png)
 
 # Fun Features
 
