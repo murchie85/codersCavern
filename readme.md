@@ -16,10 +16,10 @@
   
 # To Do In Sprint
 
-- [incomplete] Draw a mockup of what the site will look like 
-- [Done] Draw a simple flow diagram
-- [incomplete] List basic API functions 
-- [incomplete] List out all individual flows (i.e. user log in flow, update flow..)
+- `[incomplete]` Draw a mockup of what the site will look like 
+- `[Done]` Draw a simple flow diagram
+- `[incomplete]` List basic API functions 
+- `[incomplete]` List out all individual flows (i.e. user log in flow, update flow..)
 
 
 # Prototype One
